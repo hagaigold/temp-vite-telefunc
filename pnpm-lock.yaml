@@ -12,8 +12,8 @@ dependencies:
     specifier: ^4.18.2
     version: 4.18.2
   telefunc:
-    specifier: 0.1.61
-    version: 0.1.61
+    specifier: 0.1.62
+    version: 0.1.62
   vite:
     specifier: ^4.3.9
     version: 4.4.9
@@ -871,8 +871,8 @@ packages:
     engines: {node: '>= 0.8'}
     dev: false
 
-  /telefunc@0.1.61:
-    resolution: {integrity: sha512-d0ZG9u4LGtZ2bEF6nPGEk7pEFvoanRRig5la+eO2jBYPnvOyRv3IQ9s8JGlIBqnkwviDsTXGVl6iqVoaKyOAmA==}
+  /telefunc@0.1.62:
+    resolution: {integrity: sha512-WfRP5c4roSZuN5qt+tTDUle3Xae/jUMdl4sWQ2Xi7pODqIhjJHzpvIuz6Z7dCokwtBdWrbMaiwNYFBMo2rmBbA==}
     engines: {node: '>=12.19.0'}
     peerDependencies:
       '@babel/core': ^7.0.0
